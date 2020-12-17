@@ -1,0 +1,10 @@
+name: example-environment
+channels:
+  - conda-forge
+dependencies:
+  - pandas
+  - matplotlib
+  - os
+  - ipywidgets
+  - geopandas
+  - shapely
