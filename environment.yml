@@ -2,9 +2,14 @@ name: example-environment
 channels:
   - conda-forge
 dependencies:
-  - pandas
+  - numpy
+  - psutil
+  - toolz
   - matplotlib
-  - os
+  - dill
+  - pandas
+  - bqplot
   - ipywidgets
+  - os
   - geopandas
   - shapely
