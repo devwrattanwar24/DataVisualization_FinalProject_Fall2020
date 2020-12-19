@@ -4,3 +4,4 @@
 
 Link for Binder:
 https://mybinder.org/v2/gh/devwrattanwar24/DataVisualization_FinalProject_Fall2020/HEAD
+ 
