@@ -12,3 +12,4 @@ dependencies:
   - ipywidgets
   - geopandas
   - shapely
+  - descartes
